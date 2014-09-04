@@ -1,20 +1,20 @@
-Android-Studio-Tips-by-Phillipe-Breault
+Android-Studio-Tips-by-Philippe-Breault
 =======================================
 
 Every Android Studio Tip posted by Phillipe Breault
 
 
-All credits go to [Phillipe Breault](https://plus.google.com/u/0/+PhilippeBreault)
+All credits go to [Philippe Breault](https://plus.google.com/u/0/+PhilippeBreault)
 
 Wiki
 ====
 
-Go to [Wiki Pages](https://github.com/pavlospt/Android-Studio-Tips-by-Phillipe-Breault/wiki) to check the tips!
+Go to [Wiki Pages](https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault/wiki) to check the tips!
 
 License
 =======
 
-    Copyright 2014 Phillipe Breault
+    Copyright 2014 Philippe Breault
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
