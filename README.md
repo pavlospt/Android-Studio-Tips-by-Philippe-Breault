@@ -6,6 +6,11 @@ Every Android Studio Tip posted by Phillipe Breault
 
 All credits go to [Phillipe Breault](https://plus.google.com/u/0/+PhilippeBreault)
 
+Wiki
+====
+
+Go to [Wiki Pages](https://github.com/pavlospt/Android-Studio-Tips-by-Phillipe-Breault/wiki) to check the tips!
+
 License
 =======
 
