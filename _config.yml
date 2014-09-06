@@ -2,7 +2,7 @@
 title: Android Studio Tips
 email: android-tips@thomashunsaker.com
 description: Android Studio Tips by Philippe Breault
-baseurl: "/tips/" # the subpath of your site, e.g. /blog/
+baseurl: "/tips" # the subpath of your site, e.g. /blog/
 url: "http://blog.thomashunsaker.com/android-studio-tips" # the base hostname & protocol for your site
 github_username:  pavlospt
 github_username_2: thunsaker
